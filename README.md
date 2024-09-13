@@ -31,7 +31,7 @@
 - **Focus on speed and efficiency** when coding. Break tasks into **small, manageable chunks**, and avoid over-engineering solutions. Ensure that each task is completed in a reasonable amount of time by setting **clear deadlines** and **communicating progress regularly**.
 
 ## Limit Research Time
-- When faced with a new feature or issue, allocate a **strict time limit** for research (e.g., 30 minutes). If no solution is found within that time, consult with the team or implement a temporary workaround to maintain momentum.
+- When faced with a new feature or issue, allocate a **strict time limit** for research (e.g., 30 minutes). If no solution is found within that time, consult with me or the team or implement a temporary workaround to maintain momentum.
 
 ## Use Templates and Code Snippets
 - **Leverage templates, boilerplate code, or snippets** from previous projects to speed up repetitive tasks. Don’t reinvent the wheel—reuse existing code that has already proven effective.
